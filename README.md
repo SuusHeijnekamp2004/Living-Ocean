@@ -4,9 +4,8 @@ Interactive Media installation
 # 1. Course description 
 Living Ocean is an interactive media installation in which the audience is immersed in a virtual sea filled with schools of fish that respond to sound. The 360° igloo creates an enveloping underwater world in which every sound influences the movements of the fish. Visitors become part of the ecosystem and discover their own presence shapes the environment. 
 
-# 2. Video documentation
+# 2. Video documentation 🎥
 [![Video thumbnail](https://img.youtube.com/vi/ZlQ5-NJf0-8/0.jpg)](https://www.youtube.com/watch?v=ZlQ5-NJf0-8)
-
 
 
 # 3. Reproducibility
