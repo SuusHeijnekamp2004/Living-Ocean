@@ -150,7 +150,7 @@ The project functions properly in the Igloo on Campus Somedia at FHGR.
 - Collaborating effectively as a team with limited technical knowledge, reviewing each other’s work, and solving problems together.
 
 
-# 6. Project video 
+# 6. Project video 🎥
 Final Video
 
 # 7. Screenshots TouchDesigner
