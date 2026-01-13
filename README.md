@@ -92,7 +92,8 @@ the final result is produced by combining basic systems rather than complex indi
 - 5 Projectors
 
 **Software used:**
-- TouchDesigner (2023.12480, non-commercial)
+- TouchDesigner (2023.12480, non-commercial) > computer 
+- TouchDesigner (2025, commercial) > Igloo
 
 **Diagram:**
 
@@ -153,7 +154,7 @@ The project functions properly in the Igloo on Campus Somedia at FHGR.
 # 6. Project video 🎥
 [![Video thumbnail](https://img.youtube.com/vi/Uol5sgrL-L8/0.jpg)](https://www.youtube.com/watch?v=Uol5sgrL-L8)
 
-# 7. Screenshots TouchDesigner
+# 7. Screenshot TouchDesigner
 ![Screenshot 2026-01-13 155808](https://github.com/user-attachments/assets/6749a768-5feb-4c56-9629-d4ccc3f8b86d)
 
 
