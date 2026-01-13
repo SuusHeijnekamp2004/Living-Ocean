@@ -50,7 +50,7 @@ Once the instancing parameters are connected, the single fish element is duplica
 Noise introduces small variations in the torus shape, preventing it from appearing rigid or artificial. The deformation affects all vertex positions. 
 
 2. Fish positions update automatically through instancing
-Because the fish instances inherit their position from the torus vertices, any deformation of the torus directly changes the fish distribution. This creates organic, flowing motion without animating each fish individually.
+because the fish instances inherit their position from the torus vertices, any deformation of the torus directly changes the fish distribution. This creates organic, flowing motion without animating each fish individually.
 
 ### Step five - Integrating audio input 
 
