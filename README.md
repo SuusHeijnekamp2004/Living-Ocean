@@ -25,29 +25,29 @@ This step defines the fish as a reusable visual element within the scene. Placin
 ### Step two - Using a Torus as spatial structure
 
 1. A torus geometry is created
-The torus provides a circle structure with evenly distributed vertices. This makes it suitable as a spatial framework for placing multiple objects in a continuous loop. 
+the torus provides a circle structure with evenly distributed vertices. This makes it suitable as a spatial framework for placing multiple objects in a continuous loop. 
 
 2. Vertex positions of the torus are used as instance coordinates
-Each vertex of the torus mesh provides X, Y and Z values. These values are connected to the instancing parameters of the fish, determining where each fish is placed in 3D space. 
+each vertex of the torus mesh provides X, Y and Z values. These values are connected to the instancing parameters of the fish, determining where each fish is placed in 3D space. 
 
 3. Form and structure are separated
-The fish defines the visual appearance, while the torus defines the spatial arrangement. This separation allows us to change the overall structure without modifying the fish geometry itself.
+the fish defines the visual appearance, while the torus defines the spatial arrangement. This separation allows us to change the overall structure without modifying the fish geometry itself.
 
 ### Step three - Enabling instancing
 
 1. Instancing is enabled on the geometry COMP
-Instancing allows the system to render a large number of fish efficiently using one source geometry. Instead of copying the fish manually, each instance is generated based on external position data.
+instancing allows the system to render a large number of fish efficiently using one source geometry. Instead of copying the fish manually, each instance is generated based on external position data.
 
 2. Torus vertex positions are connected to the instancing parameters
-The previously prepared torus vertex positions are connected to the Translate X,Y and Z instancing parameters of the geometry COMP. This determines where each fish instance is placed in 3D space.
+the previously prepared torus vertex positions are connected to the Translate X,Y and Z instancing parameters of the geometry COMP. This determines where each fish instance is placed in 3D space.
 
 3. Multiple fish instances are generated automatically
-Once the instancing parameters are connected, the single fish element is duplicated across all torus vertex positions, resulting in multiple visible fish instances.
+once the instancing parameters are connected, the single fish element is duplicated across all torus vertex positions, resulting in multiple visible fish instances.
 
 ### Step four - Deforming the torus with noise
 
 1. A noise SOP is applied to the torus
-Noise introduces small variations in the torus shape, preventing it from appearing rigid or artificial. The deformation affects all vertex positions. 
+noise introduces small variations in the torus shape, preventing it from appearing rigid or artificial. The deformation affects all vertex positions. 
 
 2. Fish positions update automatically through instancing
 because the fish instances inherit their position from the torus vertices, any deformation of the torus directly changes the fish distribution. This creates organic, flowing motion without animating each fish individually.
@@ -55,35 +55,35 @@ because the fish instances inherit their position from the torus vertices, any d
 ### Step five - Integrating audio input 
 
 1. A microphone input is added to the system
-Live audio is used as an external input to influence the visual behavior of the fishes. The audio signal is analyzed and converted into usable control values. 
+live audio is used as an external input to influence the visual behavior of the fishes. The audio signal is analyzed and converted into usable control values. 
 
 2. Audio data modulates the noise deformation
-The intensity of the sound affects the noise parameters applied to the torus. Louder or more complex audio results in stronger deformation, which in turn changes the fish positions. 
+the intensity of the sound affects the noise parameters applied to the torus. Louder or more complex audio results in stronger deformation, which in turn changes the fish positions. 
 
 3. Structural control instead of direct animation
-Instead of moving the fish directly, the underlying structure (the torus) is manipulated. This keeps the system coherent and easier to control. 
+instead of moving the fish directly, the underlying structure (the torus) is manipulated. This keeps the system coherent and easier to control. 
 
 ### Step six - Rotation and camera placement
 
 1. The torus is continuously rotated
-Rotation is applied to create a sense of motion and flow. This movement is smooth and consistent, contributing to the illusion of swimming fish. 
+rotation is applied to create a sense of motion and flow. This movement is smooth and consistent, contributing to the illusion of swimming fish. 
 
 2. A camera is placed inside the centre of the torus
-  The camera is positioned in the empty space inside the torus and oriented outward. This placement allows the viewer to see only a small section of the rotating structure. 
+   the camera is positioned in the empty space inside the torus and oriented outward. This placement allows the viewer to see only a small section of the rotating structure. 
 
 3. Motion is created relative to the camera
-Because the camera remains stationary while the torus rotates, the fish appear to move through space. This approach simplifies animation while maintaining a strong visual effect. 
+because the camera remains stationary while the torus rotates, the fish appear to move through space. This approach simplifies animation while maintaining a strong visual effect. 
 
 ### Step seven - Resulting system behavior
 
 1. Fish appear to flow continuously around the viewer
-The combination instancing, deformation and rotation creates a dynamic environment. The motion feels continuous rather than looped or mechanical. 
+the combination instancing, deformation and rotation creates a dynamic environment. The motion feels continuous rather than looped or mechanical. 
 
 2. The system reacts to audio input in real time
-Changes in sound immediately influence the visual structure. This makes the installation responsive and interactive. 
+changes in sound immediately influence the visual structure. This makes the installation responsive and interactive. 
 
 3. Complex behavior emerges from simple components
-The final result is produced by combining basic systems rather than complex individual animations. This makes the project modular and expendable.
+the final result is produced by combining basic systems rather than complex individual animations. This makes the project modular and expendable.
 
 
 # 4. Communication diagram
