@@ -154,12 +154,7 @@ The project functions properly in the Igloo on Campus Somedia at FHGR.
 Final Video
 
 # 7. Screenshots TouchDesigner
-ss van touchesigner
-
-
-
-
-
+![Screenshot 2026-01-13 155808](https://github.com/user-attachments/assets/6749a768-5feb-4c56-9629-d4ccc3f8b86d)
 
 
 
