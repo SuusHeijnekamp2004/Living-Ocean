@@ -151,7 +151,7 @@ The project functions properly in the Igloo on Campus Somedia at FHGR.
 
 
 # 6. Project video 🎥
-Final Video
+[![Video thumbnail](https://img.youtube.com/vi/Uol5sgrL-L8/0.jpg)](https://www.youtube.com/watch?v=Uol5sgrL-L8)
 
 # 7. Screenshots TouchDesigner
 ![Screenshot 2026-01-13 155808](https://github.com/user-attachments/assets/6749a768-5feb-4c56-9629-d4ccc3f8b86d)
