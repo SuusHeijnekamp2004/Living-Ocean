@@ -154,6 +154,9 @@ The project functions properly in the Igloo on Campus Somedia at FHGR.
 Final Video
 
 # 7. Screenshots TouchDesigner
+ss van touchesigner
+
+
 
 
 
