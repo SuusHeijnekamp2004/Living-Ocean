@@ -156,7 +156,7 @@ The project functions properly in the Igloo on Campus Somedia at FHGR.
 
 # 7. Screenshot TouchDesigner
 ![Screenshot 2026-01-13 155808](https://github.com/user-attachments/assets/6749a768-5feb-4c56-9629-d4ccc3f8b86d)
-[Download the TouchDesigner project](https://github.com/SuusHeijnekamp2004/Living-Ocean/raw/main/LivingOcean-CreativeTechnology-ExamJan2026-.toe)
+[Download the TouchDesigner project](https://github.com/SuusHeijnekamp2004/Living-Ocean/raw/main/Living Ocean-Creative Technology-ExamJan2026-NinaTravers,SanneVanLierop,SuusHeijnekamp.toe)
 
 
 
