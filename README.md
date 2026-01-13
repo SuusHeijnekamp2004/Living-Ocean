@@ -117,7 +117,7 @@ Since none of the team members had experience with TouchDesigner or previous pro
 
 ## Failures and replanning
   
-During development, we realized that creating complex fish movements was technically very challenging. The team originally intended for the fish to swim in different directions to make it look more organic. However, due to a lack of knowledge of TouchDesigner and limited available time, this proved unfeasible. Therefore, we simplified the animation: the fish respond to sound and change position, making the interaction clearly visible without overloading the technical setup. 
+During development, the team realized that creating complex fish movements was technically very challenging. The team originally intended for the fish to swim in different directions to make it look more organic. However, due to a lack of knowledge of TouchDesigner and limited available time, this proved unfeasible. Therefore, the team simplified the animation: the fish respond to sound and change position, making the interaction clearly visible without overloading the technical setup. 
 
 ## Challenges
   
@@ -127,14 +127,14 @@ Developing a consistent and responsive fish reaction to sound required extensive
 
 ## Task distribution
 
-We worked with a team of three: Sanne van Lierop, Nina Travers & Suus Heijnekamp. Throughout the entire project, the team worked closely together. From the initial concept to the final implementation, all decisions were made collaboratively and tasks were distributed in a flexible and cooperative manner. Due to lack of experience with TouchDesigner and interactive installations, we worked on almost all aspects of the project together. This allowed us to learn as a team, solve problems as they arose, and ensure that everyone understood each part of the installation. 
+The team existed out of 3 members: Sanne van Lierop, Nina Travers & Suus Heijnekamp. Throughout the entire project, the team worked closely together. From the initial concept to the final implementation, all decisions were made collaboratively and tasks were distributed in a flexible and cooperative manner. Due to lack of experience with TouchDesigner and interactive installations, we worked on almost all aspects of the project together. This allowed us to learn as a team, solve problems as they arose, and ensure that everyone understood each part of the installation. 
 
 To remain efficient while writing the report, we divided some of the tasks so that each member could work on a section individually. At the same time, everyone reviewed each other’s work to ensure quality and consistency.
 
 ## Tools
   
 ChatGPT: 
-We used ChatGPT to help us with TouchDesigner whenever we were unsure how to proceed, and to assist in organizing and structuring our project documentation.
+The team used ChatGPT to help with TouchDesigner whenever we were unsure how to proceed, and to assist in organizing and structuring our project documentation.
 Support of the teachers Phillip Krüger and Jan Fiess.
 
 ## Known bugs
