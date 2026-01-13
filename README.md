@@ -147,7 +147,14 @@ The project functions properly in the Igloo on Campus Somedia at FHGR.
 - Working with audio inputs to generate interactive fish responses.
 - Experimenting with visual effects, movements, and particle systems in a 360° environment. 
 - Understanding the interplay between audio, visuals, interaction, and the physical space of the igloo. 
-- Collaborating effectively as a team with limited technical knowledge, reviewing each other’s work, and solving problems together. 
+- Collaborating effectively as a team with limited technical knowledge, reviewing each other’s work, and solving problems together.
+
+
+# 6. Project video 
+Final Video
+
+# 7. Screenshots TouchDesigner
+
 
 
 
